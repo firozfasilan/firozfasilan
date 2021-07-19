@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @firozfasilan
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m a passionate Programmer having 12+ Years of experience..
 - 💞️ I’m looking to collaborate on ...Charity .NET Projects on UK for my spare time.
 - 📫 How to reach me ... mailme : firozfasilan@gmail.com
 
